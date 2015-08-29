@@ -1,0 +1,2 @@
+# Installer avec la commande: pip install -r pip-requirements.txt
+flask-socketio==0.6.0
